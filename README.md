@@ -124,9 +124,7 @@ taskflow-mobile-tracker/
 
 ---
 
-## ✍️ Author
-
-**TaskFlow Project** by [Your Name or GitHub Username]
+**TaskFlow Project** 
 
 ---
 
